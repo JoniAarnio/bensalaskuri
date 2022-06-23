@@ -1,4 +1,4 @@
-# solidabis-koodihaaste (Solidabis julkaisi tälläisen koodihaasteen sivuillansa vuonna 2021 rekrytointitarkoitukseen. Tein sen hieman myöhässä, mutta eipä sille mitään voi.)
+# solidabis-koodihaaste
 
 ## Project setup
 ```
